@@ -14,4 +14,4 @@ The whole workflow of the approach alongside with a in-depth analysis is availab
 
 # Project Jupyter Notebook
 
-The core element of the whole project is this [Jupyter notebook]() that contains the most important analysis steps, the results and the use cases. All results saved to the database are available through the provided [database dump]() that can be used to setup the database on any PostgreSQL DBMS and re-run the Jupyter notebook.
+The core element of the whole project is this [Jupyter notebook](https://github.com/lukasValentin/OBIA4RTM-Agricultural-Example/blob/master/Deliverables/Jupyter-Notebook/analyse-visualise_OBIA4RTM.ipynb) that contains the most important analysis steps, the results and the use cases. All results saved to the database are available through the provided [database dump](https://github.com/lukasValentin/OBIA4RTM-Agricultural-Example/blob/master/database/obia4rtm_db_dump) that can be used to setup the database on any PostgreSQL DBMS and re-run the Jupyter notebook.
